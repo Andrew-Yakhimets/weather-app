@@ -2,7 +2,7 @@
 - Kotlin
 - Maven/Gradle build system
 - Spring Boot
-- Any database
+- Any database - PostgreSQL
 
 ## Data:
 Example of a weather data JSON object:
